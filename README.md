@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C# and SQL**
 
-- 💬 Ask me about **React, Next JS and others**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
