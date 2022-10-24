@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tadeqq&label=Profile%20views&color=0e75b6&style=flat" alt="tadeqq" /> </p>
 
-- 🌱 I’m currently learning **C# and SQL**
+<p align="center">- 🌱 I’m currently learning **C# and SQL**</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
